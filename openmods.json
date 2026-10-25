@@ -1,0 +1,11 @@
+{
+  "$schema": "https://openmods.nexus/openmods.schema.json",
+  "openmods": 1,
+  "name": "Visual Dodge",
+  "summary": "Wukong's staff glows just before an enemy attack reaches you, timed to your reaction: your cue for a perfect dodge. Visual only.",
+  "games": ["black-myth-wukong"],
+  "tags": ["ui", "quality-of-life"],
+  "requires": ["C# Loader v1.0.0 or newer (github.com/KintaroModding/b1csharploader)"],
+  "gameVersions": ["1.0.21"],
+  "cover": "docs/cover.png"
+}

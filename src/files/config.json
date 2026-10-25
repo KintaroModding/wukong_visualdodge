@@ -1,0 +1,7 @@
+{
+  "_help": "Visual Dodge settings. ReactionSeconds: how many seconds before an enemy attack reaches Wukong the staff glows; set it to your reaction time (0 = when the perfect dodge window opens). FlashSeconds: length of the glow (0 = 0.25 s). Clip: the game's display clip that makes Wukong glow, a path in Wukong's clip folder (/Game/00Main/VFX/Characters/sunwukong/DBC/) or a full /Game/ path. Changes apply at the next game start.",
+  "Enable": true,
+  "ReactionSeconds": 0.2,
+  "FlashSeconds": 0.25,
+  "Clip": "Talent/DBC_wukong_buff_precisedodge"
+}

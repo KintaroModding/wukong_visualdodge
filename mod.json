@@ -1,0 +1,14 @@
+{
+  "name": "Visual Dodge",
+  "folder": "wukong_visualdodge",
+  "author": "Kintaro",
+  "version": "1.8",
+  "description": "Makes Wukong's staff glow shortly before an enemy attack opens the perfect dodge window of Black Myth: Wukong.",
+  "kind": "wukongcs",
+  "game": "wukong",
+  "gameFolder": "Black Myth Wukong",
+  "win64Path": "b1\\Binaries\\Win64",
+  "gameVersion": "1.0.21.23831",
+  "engine": "UE5_0",
+  "csharpLoader": "v1.0.1"
+}
