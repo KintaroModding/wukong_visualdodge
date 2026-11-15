@@ -19,7 +19,7 @@ length. It is a C# mod for C# Loader and changes no game files.
 
 ## Screenshots
 
-![Visual Dodge](docs/cover.png)
+![Visual Dodge](docs/cover.webp)
 
 ## How to install
 

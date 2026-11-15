@@ -7,5 +7,5 @@
   "tags": ["ui", "quality-of-life"],
   "requires": ["C# Loader v1.0.0 or newer (github.com/KintaroModding/b1csharploader)"],
   "gameVersions": ["1.0.21"],
-  "cover": "docs/cover.png"
+  "cover": "docs/cover.webp"
 }
